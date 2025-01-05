@@ -15,24 +15,15 @@ export default function Hero() {
           <span>Hi, I'm&nbsp;</span>
           {/* <span className="text-blue-400">{name}</span> */}
           <span className="name-animation text-blue-400">
-            <span>T</span>
-            <span>h</span>
-            <span>u</span>
-            <span>z</span>
-            <span>a</span>
-            <span>r</span>
-            <span>&nbsp;</span>
-            <span>T</span>
-            <span>h</span>
-            <span>a</span>
+            <span>A</span>
             <span>u</span>
             <span>n</span>
             <span>g</span>
             <span>&nbsp;</span>
-            <span>S</span>
-            <span>e</span>
-            <span>i</span>
-            <span>n</span>
+            <span>P</span>
+            <span>h</span>
+            <span>y</span>
+            <span>o</span>
           </span>
         </h1>
         <h2 className="text-2xl font-semibold text-muted-foreground ">

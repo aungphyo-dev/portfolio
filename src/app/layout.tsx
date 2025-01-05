@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Thuzar - Full-stack Developer",
-  description: "React.js | PHP | Laravel",
+  title: "AungPhyo - .Net Developer",
+  description: "Asp.Net | Angular | C#",
 };
 
 export default function RootLayout({
@@ -28,7 +28,7 @@ export default function RootLayout({
           <main className="px-4 sm:px-8 lg:px-16">{children}</main>
           <div className="text-center text-muted-foreground text-sm py-5 border-t dark:border-t-gray-800 mx-4 md:max-w-7xl md:mx-auto">
             <span className="dark:text-gray-700 text-gray-400">
-              @2024 Thuzar
+              @2024 AungPhyo
             </span>
           </div>
         </ThemeProvider>
